@@ -1,8 +1,8 @@
 ## Operation System
 #### Part 2 : 프로세스와 스레드 (한동호)
 Notion Link : https://www.notion.so/_-_-1d067c736cd680a9ab13e58071ce0f76
-#### Part 3 : Topic (Speaker)
-Notion Link : 
+#### Part 3 : 동기화와 교착 상태 (서상민)
+Notion Link : https://www.notion.so/3_-_-_-_-1d367c736cd680ffa59fdb87e2decd60
 #### Part 4 : Topic (Speaker)
 Notion Link : 
 #### Part 5 : Topic (Speaker)
