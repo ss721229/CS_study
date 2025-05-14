@@ -7,5 +7,5 @@ Notion Link : [https://www.notion.so/3_SQL_-1d767c736cd68001aa9ef447aebc1cad](ht
 Notion Link : https://www.notion.so/_-1e567c736cd6800f8eeac993a55d47fb
 #### Part 5 : 데이터베이스 설계 (서상민)
 Notion Link : https://www.notion.so/5_-_-1ec67c736cd680c4879cde0466e4aec4
-#### Part 6 : Topic (Speaker)
-Notion Link : 
+#### Part 6 : NoSQL (권진욱)
+Notion Link : https://www.notion.so/6_NoSQL_-1f367c736cd680638465dadff80d88ba
