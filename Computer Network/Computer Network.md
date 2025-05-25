@@ -9,5 +9,7 @@ Notion Link : https://www.notion.so/4_-TCP-UDP_-1e367c736cd680dfafe7d448e0a160d5
 Notion Link : https://www.notion.so/5_HTTP-_-1ec67c736cd680b29461f14b07faacf2
 #### Part 6 : 응용 계층 - HTTP의 응용 (한동호)
 Notion Link : https://www.notion.so/6_HTTP-_-_-1f367c736cd680e8a698fa489d6f92a6
-#### Part 7 : Topic (Speaker)
-Notion Link : 
+#### Part 7 : 프록시와 안정적인 트래픽 (서상민, 한동호, 권진욱)
+Notion Link : https://www.notion.so/7_-_-_-_-1fb67c736cd6802cb753fbd5c0916703
+Notion Link : https://www.notion.so/7_-_-_-_-1fb67c736cd6802286fbc8d5d121494d
+Notion Link : https://www.notion.so/7_-_-_-_-1fc67c736cd6802c8eb7d41c3fffbeea
